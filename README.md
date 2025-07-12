@@ -1,4 +1,4 @@
-<h1>Holla 👋, I'm Azzeddine </h1>
+<h1>                                          Holla, I'm Azzeddine </h1>
 <p>I'm currently pursuing my Engineering degree @ INPT, specializing in AI & ML, and I'm seeking real-world problems to solve.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
