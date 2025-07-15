@@ -13,12 +13,6 @@
 
 ## I'm Eng. Student in Computer science
 
-Check out our projects at Cloudinary.com
-
-## I'm a 3x Founder:
-
-<a href="https://beanpotstudio.com">Founder and CEO - Beanpot Studio</a>
-
 ## About my GitHub projects:
 
 I've published a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. It is aligned to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids) and consider purchasing the book for the cool middle-schooler in your life!
@@ -34,4 +28,3 @@ I also manage several GitHub organizations. Check out the Digital Humanities Too
 ✨I learned to manage my anger issues through web scraping.
 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=jlooper&show_icons=true&theme=nightowl)
