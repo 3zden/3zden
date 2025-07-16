@@ -11,6 +11,7 @@
 </p>
 
 ## I'm Eng. Student in Computer science
+Engineering student who speaks fluent Python and broken English. I orchestrate chaotic symphonies of code, sprinkle AI magic on everything.
 
 
 ## About my GitHub projects:
