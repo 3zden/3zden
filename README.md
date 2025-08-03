@@ -1,7 +1,7 @@
 <p>
   <h1 align="center"><b>Holla, I'm 3zden!</h1> 
 </p> 
-   
+
 <p align="center">  
 <a href="[https://twitter.com/jenlooper](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
 <a href="https://huggingface.com/3zden/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="23px" /></a>&nbsp;
