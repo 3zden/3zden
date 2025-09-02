@@ -1,6 +1,4 @@
-<p>    
-  <h1 align="center"><b>Holla, I'm <em>3zden!</em></h1>  
-</p>     
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=CA2828&width=435&lines=Hi%2C+I+am+Hanna!;I+am+a+MSc+student+at+ETH+Zurich;I+work+on+multilingual+LLMs)](https://git.io/typing-svg)   
     
 <p align="center">  
 <a href="[https://twitter.com/jenlooper](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
