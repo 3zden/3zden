@@ -13,8 +13,3 @@
 CS MEng student @ INPT ,who speaks fluent Python and broken English. I orchestrate chaotic symphonies of code, sprinkle AI magic on everything.
 ## About my GitHub projects:
 
-## Some fun facts:
-
-✨I learned to manage my anger issues through web scraping.
-
-
