@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00CED1&width=1000&lines=Hi%2C+I+am+3zden!;I+am+Software+Engineer;I+Love+RAJA+Casablanca;)](https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00CED1&width=1000&lines=Hi%2C+I+am+3zden!;I+am+Software+Engineer;I+Love+RAJA+Casablanca;">
 </p>
 <p align="center">  
 <a href="[https://twitter.com/jenlooper](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
