@@ -12,7 +12,7 @@
 
 ## About Me:
 CS MEng student @ INPT.                                                                                                                                                                                               
-I love writing readable clean code.                                                                                                                                                                                    
-passionate about problem solving and competetive programming.
+I enjoy writing clean, readable code.                                                                                                                                                                                  
+Passionate about problem-solving and competitive programming.
 ## About my GitHub projects:
 
