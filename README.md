@@ -11,6 +11,8 @@
 </p>
 
 ## About Me:
-CS MEng student @ INPT ,who speaks fluent Python and broken English. I orchestrate chaotic symphonies of code, sprinkle AI magic on everything.
+CS MEng student @ INPT.                                                                                                                                                                                               
+I love writing readable clean code.                                                                                                                                                                                    
+passionate about problem solving and competetive programming.
 ## About my GitHub projects:
 
