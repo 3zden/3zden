@@ -11,8 +11,9 @@
 </p>
 
 ## About Me:
-CS MEng student @ INPT.                                                                                                                                                                                               
+<b>CS MEng student @ INPT.                                                                                                                                                                                             
 I enjoy writing clean, readable code.                                                                                                                                                                                  
 Passionate about problem-solving and competitive programming.
+</b>
 ## About my GitHub projects:
 
