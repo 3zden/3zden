@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00CED1&width=1000&lines=Hi%2C+I+am+3zden!;I+am+Software+Engineer;I+Love+RAJA+Casablanca;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FFF&width=1000&lines=Hi%2C+I+am+3zden!;I+am+Software+Engineer;I+Love+RAJA+Casablanca;">
 </p>
 <p align="start">  
 <a href="https://3zden.netlify.app"><img src="https://img.shields.io/badge/3zden.me-000000" alt="Blog" /></a>&nbsp;
