@@ -11,7 +11,7 @@
 </p>
 
 ## About Me:
-<b>CS MEng student @ INPT                                                                                                                                                                                             
+<b>Software Engineer | MEng student @ INPT                                                                                                                                                                                             
 I enjoy writing clean, readable code.                                                                                                                                                                                  
 Passionate about problem-solving and competitive programming.
 </b>
