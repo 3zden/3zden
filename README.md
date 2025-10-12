@@ -6,7 +6,7 @@
 <a href="[https://twitter.com/jenlooper](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
 <a href="https://huggingface.com/3zden/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="23px" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/3zden/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<br/> 
+<br/>  
     
 </p>
 
