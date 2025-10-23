@@ -15,5 +15,5 @@
 I enjoy writing clean, readable code.                                                                                                                                                                                  
 Passionate about problem-solving and competitive programming.
 </b>
-## About my GitHub projects:
+
 
