@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/3zden/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>  
     
-</p>
+</p> 
  
 ## About Me:
 <b>Software Engineer | MEng Student @ INPT                                                                                                                                                                                             
