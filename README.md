@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FFF&width=1000&lines=Hi%2C+I+am+3zden!;I+am+a+Software+Engineer;I+Love+RAJA+Casablanca;">
 </p> 
 <p align="start">  
