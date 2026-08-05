@@ -11,7 +11,7 @@
 </p> 
  
 ## About Me:
-<b>Software Engineering Student @ INPT
+<b>Software Engineering Student @ INPT | Seeking 2027 End-of-studies(PFE) Internships    
 Distributed Systems | Cloud-Native Infrastructure                                                                                                                                                                             
 Passionate about problem-solving and competitive programming.
 </b>
